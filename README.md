@@ -1,4 +1,4 @@
-| Project | What it is | Activity (2014–2026) |
+| Project | Description | Activity |
 |---|---|---|
 | **Gists** |  | ` \|2015     \|2020     \|2025` |
 | [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
