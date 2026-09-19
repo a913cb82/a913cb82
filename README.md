@@ -1,18 +1,3 @@
-# Alex B
-
-Solo projects in simulation, games, machine learning, and study tooling.
-Everything here is reusable under the license in each repo (MIT unless noted).
-
-## Highlights
-
-| Project | What it is | Last commit |
-|---|---|---|
-| [olympias](https://github.com/a913cb82/olympias) | How fast and agile was the Athenian trireme? Research + simulation of the Olympias replica | ![last commit](https://img.shields.io/github/last-commit/a913cb82/olympias) |
-| [systematic-trading-platform](https://github.com/a913cb82/systematic-trading-platform) | Market data, model development, and live order execution | ![last commit](https://img.shields.io/github/last-commit/a913cb82/systematic-trading-platform) |
-| [rts-info-delay](https://github.com/a913cb82/rts-info-delay) | Strategy game where you only see and command what messengers can reach | ![last commit](https://img.shields.io/github/last-commit/a913cb82/rts-info-delay) |
-| [pi-subagents](https://github.com/a913cb82/pi-subagents) | Recursive, isolated, background subagents for the Pi coding agent | ![last commit](https://img.shields.io/github/last-commit/a913cb82/pi-subagents) |
-| [go-bot](https://github.com/a913cb82/go-bot) | Running Go bots on OGS | ![last commit](https://img.shields.io/github/last-commit/a913cb82/go-bot) |
-
 ## All projects
 
 | Project | What it is | Last commit |
