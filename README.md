@@ -35,15 +35,6 @@
 | [gravity](https://github.com/a913cb82/gravity) | Simulate gravity in Tcl | ` █                        ` |
 | [evoludo](https://github.com/a913cb82/evoludo) | Simulate cellular-automata evolution | ` █                        ` |
 | [digi-evo](https://github.com/a913cb82/digi-evo) | Experiment with Tierra-inspired digital evolution in Tcl | ` █                        ` |
-| **University** |  | ` \|2015     \|2020     \|2025` |
-| [cambridge-dissertation](https://github.com/a913cb82/cambridge-dissertation) | Reinforcement Learning Demolition Teams | `       █                 ▄` |
-| [ucl-csml-notes](https://github.com/a913cb82/ucl-csml-notes) | UCL MSc Computational Statistics and Machine Learning revision notes | `       █▄               ▄ ` |
-| [ucl-msc-thesis](https://github.com/a913cb82/ucl-msc-thesis) | Stochasticity in the Travelling Salesman Problem | `       █                  ` |
-| [external-sort](https://github.com/a913cb82/external-sort) | Sort data externally in Java | ` █                        ` |
-| [chat-client-server](https://github.com/a913cb82/chat-client-server) | Run a client-server internet chat app | ` █                        ` |
-| [game-of-life](https://github.com/a913cb82/game-of-life) | Simulate Conway's Game of Life | ` █                        ` |
-| [brainfuck](https://github.com/a913cb82/brainfuck) | Interpret Brainfuck in Java | ` █                        ` |
-| [mandelbrot](https://github.com/a913cb82/mandelbrot) | Explore the Mandelbrot set in Java | ` █                        ` |
 | **Anki** |  | ` \|2015     \|2020     \|2025` |
 | [mandarin-ebook-flashcards](https://github.com/a913cb82/mandarin-ebook-flashcards) | Create flashcards from ebook vocabulary | `                       █▄▄` |
 | [fsrs-experiments](https://github.com/a913cb82/fsrs-experiments) | Experiment with the FSRS spaced-repetition algorithm | `                        █ ` |
@@ -51,6 +42,15 @@
 | [systematic-trading-platform](https://github.com/a913cb82/systematic-trading-platform) | Manage market data, test trading models, and automate live orders | `                        █ ` |
 | [forex-trading](https://github.com/a913cb82/forex-trading) | Test ML trading strategies | `       ██                 ` |
 | [gym-asset-allocation](https://github.com/a913cb82/gym-asset-allocation) | Allocate assets in an OpenAI Gym environment | `        █                 ` |
+| **University** |  | ` \|2015     \|2020     \|2025` |
+| [ucl-csml-notes](https://github.com/a913cb82/ucl-csml-notes) | UCL MSc Computational Statistics and Machine Learning revision notes | `       ██                 ` |
+| [cambridge-dissertation](https://github.com/a913cb82/cambridge-dissertation) | Reinforcement Learning Demolition Teams | `       █                  ` |
+| [ucl-msc-thesis](https://github.com/a913cb82/ucl-msc-thesis) | Stochasticity in the Travelling Salesman Problem | `       █                  ` |
+| [external-sort](https://github.com/a913cb82/external-sort) | Sort data externally in Java | ` █                        ` |
+| [chat-client-server](https://github.com/a913cb82/chat-client-server) | Run a client-server internet chat app | ` █                        ` |
+| [game-of-life](https://github.com/a913cb82/game-of-life) | Simulate Conway's Game of Life | ` █                        ` |
+| [brainfuck](https://github.com/a913cb82/brainfuck) | Interpret Brainfuck in Java | ` █                        ` |
+| [mandelbrot](https://github.com/a913cb82/mandelbrot) | Explore the Mandelbrot set in Java | ` █                        ` |
 | **Data** |  | ` \|2015     \|2020     \|2025` |
 | [crossfit-scraper](https://github.com/a913cb82/crossfit-scraper) | Scrape and analyze the Crossfit Games leaderboard | `       █                  ` |
 | [language-distances](https://github.com/a913cb82/language-distances) | Visualize distances between natural languages | `       █                  ` |
