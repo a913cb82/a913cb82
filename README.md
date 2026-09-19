@@ -74,4 +74,9 @@ If all cells are equal width, the `|` marks form straight vertical lines down ea
 <tr><td>spec mid, code</td><td><code>          ▇         </code></td></tr>
 <tr><td>ascii density, code</td><td><code>              :=-+#@</code></td></tr>
 <tr><td>ascii trio, code</td><td><code>#=-                 </code></td></tr>
+<tr><td>safe: start</td><td><code>█                   </code></td></tr>
+<tr><td>safe: mid</td><td><code>          █         </code></td></tr>
+<tr><td>safe: end</td><td><code>                   █</code></td></tr>
+<tr><td>safe: mix</td><td><code>▄█▄                 </code></td></tr>
+<tr><td>safe: levels</td><td><code>▄█</code></td></tr>
 </table>
