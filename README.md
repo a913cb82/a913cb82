@@ -38,3 +38,27 @@ _One char per half-year, 2017–26 on every row. Height is relative to each repo
 | [ucl-csml-notes](https://github.com/a913cb82/ucl-csml-notes) | UCL MSc Computational Statistics and Machine Learning revision notes | `⠀⁠▇⁠▃⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▁⁠⠀` |
 | [ucl-msc-thesis](https://github.com/a913cb82/ucl-msc-thesis) | Stochasticity in the Travelling Salesman Problem | `⠀⁠▇⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀` |
 | [cambridge-dissertation](https://github.com/a913cb82/cambridge-dissertation) | Reinforcement Learning Demolition Teams | `⠀⁠▇⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂` |
+
+## Experiments (temp)
+
+Judge per row: (1) bars align vertically = equal widths; (2) row stays on one line = no wrap. Compare lengths against the digits ruler.
+
+| Variant | Sample |
+|---|---|
+| code check: narrow | `iiiiiiiiii` |
+| code check: wide | `MMMMMMMMMM` |
+| digits ruler (20) | `12345678901234567890` |
+| levels strip, code | `▁▂▃▄▅▆▇█` |
+| levels strip, no code | ▁▂▃▄▅▆▇█ |
+| current: braille+join+code | `⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█` |
+| braille, no join, code | `⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▂▄▃▅▇█` |
+| NBSP blanks, code | `              ▂▄▃▅▇█` |
+| shade blanks, code | `░░░░░░░░░░░░░░▂▄▃▅▇█` |
+| real spaces, code | `              ▂▄▃▅▇█` |
+| fig-space blanks, code | `              ▂▄▃▅▇█` |
+| thin-space blanks, code | `              ▂▄▃▅▇█` |
+| braille, NO code | ⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█ |
+| real spaces, NO code |               ▂▄▃▅▇█ |
+| code HTML tag | <code>⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█</code> |
+| nobr+code tags | <nobr><code>⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█</code></nobr> |
+| full blocks only, code | `⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠█⁠█⁠█⁠█⁠█⁠█` |
