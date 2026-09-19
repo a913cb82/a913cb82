@@ -5,7 +5,6 @@
 | **Tools** |  | ` \|2015     \|2020     \|2025` |
 | [dev-env](https://github.com/a913cb82/dev-env) | Reproduce this dev environment on any machine | `                         █` |
 | [zen-gate](https://github.com/a913cb82/zen-gate) | Block phone use by default, allowing only approved apps | `                         █` |
-| [pi-subagents](https://github.com/a913cb82/pi-subagents) | Run recursive, isolated background subagents for the Pi coding agent | `                         █` |
 | [image-cropper](https://github.com/a913cb82/image-cropper) | Batch-crop images to 9:20 portrait via a localhost web UI | `                         █` |
 | [ukulele-tab](https://github.com/a913cb82/ukulele-tab) | Convert sheet music to ukulele tabs | `                        █ ` |
 | [map-generator](https://github.com/a913cb82/map-generator) | Create PNG images of world maps | `                        █ ` |
