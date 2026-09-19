@@ -41,24 +41,32 @@ _One char per half-year, 2017–26 on every row. Height is relative to each repo
 
 ## Experiments (temp)
 
-Judge per row: (1) bars align vertically = equal widths; (2) row stays on one line = no wrap. Compare lengths against the digits ruler.
+If all cells are equal width, the `|` marks form straight vertical lines down each column. Bars at different positions expose drift.
 
-| Variant | Sample |
-|---|---|
-| code check: narrow | `iiiiiiiiii` |
-| code check: wide | `MMMMMMMMMM` |
-| digits ruler (20) | `12345678901234567890` |
-| levels strip, code | `▁▂▃▄▅▆▇█` |
-| levels strip, no code | ▁▂▃▄▅▆▇█ |
-| current: braille+join+code | `⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█` |
-| braille, no join, code | `⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀▂▄▃▅▇█` |
-| NBSP blanks, code | `              ▂▄▃▅▇█` |
-| shade blanks, code | `░░░░░░░░░░░░░░▂▄▃▅▇█` |
-| real spaces, code | `              ▂▄▃▅▇█` |
-| fig-space blanks, code | `              ▂▄▃▅▇█` |
-| thin-space blanks, code | `              ▂▄▃▅▇█` |
-| braille, NO code | ⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█ |
-| real spaces, NO code |               ▂▄▃▅▇█ |
-| code HTML tag | <code>⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█</code> |
-| nobr+code tags | <nobr><code>⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠▂⁠▄⁠▃⁠▅⁠▇⁠█</code></nobr> |
-| full blocks only, code | `⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠⠀⁠█⁠█⁠█⁠█⁠█⁠█` |
+<table>
+<tr><th>Variant</th><th>Sample</th></tr>
+<tr><td>code narrow</td><td><code>iiiiiiiiii</code></td></tr>
+<tr><td>code wide</td><td><code>MMMMMMMMMM</code></td></tr>
+<tr><td>digits ruler</td><td><code>12345678901234567890</code></td></tr>
+<tr><td>braille start</td><td><code>▇|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|</code></td></tr>
+<tr><td>braille mid</td><td><code>⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠▇|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|</code></td></tr>
+<tr><td>braille end</td><td><code>⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠▇|</code></td></tr>
+<tr><td>braille trio</td><td><code>▇|⁠▄|⁠▃|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|</code></td></tr>
+<tr><td>nbsp start</td><td><code>▇|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>nbsp mid</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>nbsp end</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|</code></td></tr>
+<tr><td>nbsp trio</td><td><code>▇|⁠▄|⁠▃|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>shade start</td><td><code>▇|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|</code></td></tr>
+<tr><td>shade mid</td><td><code>░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠▇|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|</code></td></tr>
+<tr><td>shade end</td><td><code>░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠▇|</code></td></tr>
+<tr><td>shade trio</td><td><code>▇|⁠▄|⁠▃|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|⁠░|</code></td></tr>
+<tr><td>space start</td><td><code>▇|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>space mid</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>space end</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|</code></td></tr>
+<tr><td>space trio</td><td><code>▇|⁠▄|⁠▃|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>fig start</td><td><code>▇|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>fig mid</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>fig end</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|</code></td></tr>
+<tr><td>fig trio</td><td><code>▇|⁠▄|⁠▃|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
+<tr><td>no-code check</td><td>⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠▇|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|</td></tr>
+</table>
