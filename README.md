@@ -69,4 +69,9 @@ If all cells are equal width, the `|` marks form straight vertical lines down ea
 <tr><td>fig end</td><td><code> |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠▇|</code></td></tr>
 <tr><td>fig trio</td><td><code>▇|⁠▄|⁠▃|⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |⁠ |</code></td></tr>
 <tr><td>no-code check</td><td>⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠▇|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|⁠⠀|</td></tr>
+<tr><td>spec: bars+nbsp, code</td><td><code>              ▂▄▃▅▇█</code></td></tr>
+<tr><td>spec trio, code</td><td><code>▇▄▃                 </code></td></tr>
+<tr><td>spec mid, code</td><td><code>          ▇         </code></td></tr>
+<tr><td>ascii density, code</td><td><code>              :=-+#@</code></td></tr>
+<tr><td>ascii trio, code</td><td><code>#=-                 </code></td></tr>
 </table>
