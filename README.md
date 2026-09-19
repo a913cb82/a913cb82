@@ -1,6 +1,6 @@
 ## All projects
 
-_One char per half-year, 2017-26 on every row. Full block = peak half, lower half block = below half-peak, blank = no commits._
+_One char per half-year, 2017-2026 on every row. Full block = peak half, lower half block = below half-peak, blank = no commits._
 
 | Project | What it is | Activity (2017–2026) |
 |---|---|---|
