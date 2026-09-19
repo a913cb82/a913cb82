@@ -2,6 +2,17 @@
 
 | Project | What it is | Activity (2014–2026) |
 |---|---|---|
+| **Tools** |  | ` \|2015     \|2020     \|2025` |
+| [dev-env](https://github.com/a913cb82/dev-env) | Reproduce this dev environment on any machine | `                         █` |
+| [zen-gate](https://github.com/a913cb82/zen-gate) | Block phone use by default, allowing only approved apps | `                         █` |
+| [pi-subagents](https://github.com/a913cb82/pi-subagents) | Run recursive, isolated background subagents for the Pi coding agent | `                         █` |
+| [image-cropper](https://github.com/a913cb82/image-cropper) | Batch-crop images to 9:20 portrait via a localhost web UI | `                         █` |
+| [ukulele-tab](https://github.com/a913cb82/ukulele-tab) | Convert sheet music to ukulele tabs | `                        █ ` |
+| [map-generator](https://github.com/a913cb82/map-generator) | Create PNG images of world maps | `                        █ ` |
+| [visualize-timeline](https://github.com/a913cb82/visualize-timeline) | Visualize Google Maps Timeline | `                      █ █ ` |
+| [spotify-scrobbler](https://github.com/a913cb82/spotify-scrobbler) | Scrobble Spotify history to Last.fm | `                       ▄█ ` |
+| [instagram-bot](https://github.com/a913cb82/instagram-bot) | Run a machine-learning Instagram bot | `       ██                 ` |
+| [map-maker](https://github.com/a913cb82/map-maker) | Generate procedural worlds | ` █                        ` |
 | **Gists** |  | ` \|2015     \|2020     \|2025` |
 | [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
 | [wl.md](https://gist.github.com/a913cb82/786db98d0b9fd0d357f8c3a7d0b3adcb) | WL Notes | `       █▄                 ` |
@@ -19,16 +30,6 @@
 | [anki-tsumego](https://github.com/a913cb82/anki-tsumego) | Drill tsumego with Anki card templates | `                        █ ` |
 | [ogs-to-anki](https://github.com/a913cb82/ogs-to-anki) | Download Go problems and prepare them for Anki | `                        █ ` |
 | [alphazero-go](https://github.com/a913cb82/alphazero-go) | Play Go against an AlphaZero-inspired bot | `          █               ` |
-| **Tools** |  | ` \|2015     \|2020     \|2025` |
-| [zen-gate](https://github.com/a913cb82/zen-gate) | Block phone use by default, allowing only approved apps | `                         █` |
-| [pi-subagents](https://github.com/a913cb82/pi-subagents) | Run recursive, isolated background subagents for the Pi coding agent | `                         █` |
-| [image-cropper](https://github.com/a913cb82/image-cropper) | Batch-crop images to 9:20 portrait via a localhost web UI | `                         █` |
-| [ukulele-tab](https://github.com/a913cb82/ukulele-tab) | Convert sheet music to ukulele tabs | `                        █ ` |
-| [map-generator](https://github.com/a913cb82/map-generator) | Create PNG images of world maps | `                        █ ` |
-| [visualize-timeline](https://github.com/a913cb82/visualize-timeline) | Visualize Google Maps Timeline | `                      █ █ ` |
-| [spotify-scrobbler](https://github.com/a913cb82/spotify-scrobbler) | Scrobble Spotify history to Last.fm | `                       ▄█ ` |
-| [instagram-bot](https://github.com/a913cb82/instagram-bot) | Run a machine-learning Instagram bot | `       ██                 ` |
-| [map-maker](https://github.com/a913cb82/map-maker) | Generate procedural worlds | ` █                        ` |
 | **Simulations** |  | ` \|2015     \|2020     \|2025` |
 | [olympias](https://github.com/a913cb82/olympias) | Research and simulate the Olympias trireme replica | `                         █` |
 | [digi-evo-v2](https://github.com/a913cb82/digi-evo-v2) | Simulate digital evolution in C++, inspired by Tierra | ` █                        ` |
