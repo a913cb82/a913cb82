@@ -2,6 +2,7 @@
 
 | Project | What it is | Activity (2014–2026) |
 |---|---|---|
+| | | `  2015      2020      2025` |
 | **Gists** |  |  |
 | [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
 | [wl.md](https://gist.github.com/a913cb82/786db98d0b9fd0d357f8c3a7d0b3adcb) | WL Notes | `       █▄                 ` |
