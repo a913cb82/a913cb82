@@ -1,5 +1,8 @@
 | Project | What it is | Activity (2014–2026) |
 |---|---|---|
+| **Gists** |  | ` \|2015     \|2020     \|2025` |
+| [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
+| [wl.md](https://gist.github.com/a913cb82/786db98d0b9fd0d357f8c3a7d0b3adcb) | WL Notes | `       █▄                 ` |
 | **Tools** |  | ` \|2015     \|2020     \|2025` |
 | [dev-env](https://github.com/a913cb82/dev-env) | Reproduce this dev environment on any machine | `                         █` |
 | [zen-gate](https://github.com/a913cb82/zen-gate) | Block phone use by default, allowing only approved apps | `                         █` |
@@ -10,9 +13,6 @@
 | [spotify-scrobbler](https://github.com/a913cb82/spotify-scrobbler) | Scrobble Spotify history to Last.fm | `                       ▄█ ` |
 | [instagram-bot](https://github.com/a913cb82/instagram-bot) | Run a machine-learning Instagram bot | `       ██                 ` |
 | [map-maker](https://github.com/a913cb82/map-maker) | Generate procedural worlds | ` █                        ` |
-| **Gists** |  | ` \|2015     \|2020     \|2025` |
-| [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
-| [wl.md](https://gist.github.com/a913cb82/786db98d0b9fd0d357f8c3a7d0b3adcb) | WL Notes | `       █▄                 ` |
 | **Games** |  | ` \|2015     \|2020     \|2025` |
 | [rts-info-delay](https://github.com/a913cb82/rts-info-delay) | Command through fog of war with messenger-delayed orders | `                         █` |
 | [rts-logistics](https://github.com/a913cb82/rts-logistics) | Haul, gather, eat, and fight in a logistics strategy game | `                         █` |
