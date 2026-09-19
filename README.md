@@ -1,5 +1,3 @@
-## All projects
-
 | Project | What it is | Activity (2014–2026) |
 |---|---|---|
 | **Tools** |  | ` \|2015     \|2020     \|2025` |
