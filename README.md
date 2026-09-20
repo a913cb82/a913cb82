@@ -1,8 +1,19 @@
 | Project | Description | Activity |
 |---|---|---|
-| **Gists** |  | ` \|2015     \|2020     \|2025` |
-| [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
-| [wl.md](https://gist.github.com/a913cb82/786db98d0b9fd0d357f8c3a7d0b3adcb) | WL Notes | `       █▄                 ` |
+| **Games** |  | ` \|2015     \|2020     \|2025` |
+| [ants-ai](https://github.com/a913cb82/ants-ai) | Play the Ants challenge with an ant-colony AI | ` ▄                       █` |
+| [rts-info-delay](https://github.com/a913cb82/rts-info-delay) | Command through fog of war with messenger-delayed orders | `                         █` |
+| [rts-logistics](https://github.com/a913cb82/rts-logistics) | Haul, gather, eat, and fight in a logistics strategy game | `                         █` |
+| [osrs-combat-optimizer](https://github.com/a913cb82/osrs-combat-optimizer) | Calculate the optimal way to train combat in OSRS | `                        █ ` |
+| [aoe-ai](https://github.com/a913cb82/aoe-ai) | Play Age of Empires II with a scripted AI | ` █                        ` |
+| [py-risk](https://github.com/a913cb82/py-risk) | Play Risk against a simple AI, in Python | ` █                        ` |
+| [interstellar-warfare](https://github.com/a913cb82/interstellar-warfare) | Play a strategy game with evolving AI | ` █                        ` |
+| **Go** |  | ` \|2015     \|2020     \|2025` |
+| [go-trainer](https://github.com/a913cb82/go-trainer) | Practice Go with move suggestions and optional instant feedback | `                         █` |
+| [go-bot](https://github.com/a913cb82/go-bot) | Run Go bots on OGS | `                        █ ` |
+| [anki-tsumego](https://github.com/a913cb82/anki-tsumego) | Drill tsumego with Anki card templates | `                        █ ` |
+| [ogs-to-anki](https://github.com/a913cb82/ogs-to-anki) | Download Go problems and prepare them for Anki | `                        █ ` |
+| [alphazero-go](https://github.com/a913cb82/alphazero-go) | Play Go against an AlphaZero-inspired bot | `          █               ` |
 | **Tools** |  | ` \|2015     \|2020     \|2025` |
 | [dev-env](https://github.com/a913cb82/dev-env) | Reproduce this dev environment on any machine | `                         █` |
 | [zen-gate](https://github.com/a913cb82/zen-gate) | Block phone use by default, allowing only approved apps | `                         █` |
@@ -13,20 +24,9 @@
 | [spotify-scrobbler](https://github.com/a913cb82/spotify-scrobbler) | Scrobble Spotify history to Last.fm | `                       ▄█ ` |
 | [instagram-bot](https://github.com/a913cb82/instagram-bot) | Run a machine-learning Instagram bot | `       ██                 ` |
 | [map-maker](https://github.com/a913cb82/map-maker) | Generate procedural worlds | ` █                        ` |
-| **Games** |  | ` \|2015     \|2020     \|2025` |
-| [rts-info-delay](https://github.com/a913cb82/rts-info-delay) | Command through fog of war with messenger-delayed orders | `                         █` |
-| [rts-logistics](https://github.com/a913cb82/rts-logistics) | Haul, gather, eat, and fight in a logistics strategy game | `                         █` |
-| [osrs-combat-optimizer](https://github.com/a913cb82/osrs-combat-optimizer) | Calculate the optimal way to train combat in OSRS | `                        █ ` |
-| [aoe-ai](https://github.com/a913cb82/aoe-ai) | Play Age of Empires II with a scripted AI | ` █                        ` |
-| [ants-ai](https://github.com/a913cb82/ants-ai) | Play the Ants challenge with an ant-colony AI | ` █                        ` |
-| [py-risk](https://github.com/a913cb82/py-risk) | Play Risk against a simple AI, in Python | ` █                        ` |
-| [interstellar-warfare](https://github.com/a913cb82/interstellar-warfare) | Play a strategy game with evolving AI | ` █                        ` |
-| **Go** |  | ` \|2015     \|2020     \|2025` |
-| [go-trainer](https://github.com/a913cb82/go-trainer) | Practice Go with move suggestions and optional instant feedback | `                         █` |
-| [go-bot](https://github.com/a913cb82/go-bot) | Run Go bots on OGS | `                        █ ` |
-| [anki-tsumego](https://github.com/a913cb82/anki-tsumego) | Drill tsumego with Anki card templates | `                        █ ` |
-| [ogs-to-anki](https://github.com/a913cb82/ogs-to-anki) | Download Go problems and prepare them for Anki | `                        █ ` |
-| [alphazero-go](https://github.com/a913cb82/alphazero-go) | Play Go against an AlphaZero-inspired bot | `          █               ` |
+| **Gists** |  | ` \|2015     \|2020     \|2025` |
+| [make-profile-table.py](https://gist.github.com/a913cb82/e0cabe3d5fbf29f0d28e29899ada7b94) | Generate this profile table | `                         █` |
+| [wl.md](https://gist.github.com/a913cb82/786db98d0b9fd0d357f8c3a7d0b3adcb) | WL Notes | `       █▄                 ` |
 | **Simulations** |  | ` \|2015     \|2020     \|2025` |
 | [olympias](https://github.com/a913cb82/olympias) | Research and simulate the Olympias trireme replica | `                         █` |
 | [digi-evo-v2](https://github.com/a913cb82/digi-evo-v2) | Simulate digital evolution in C++, inspired by Tierra | ` █                        ` |
